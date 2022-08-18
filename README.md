@@ -1,4 +1,4 @@
-# power-source-finder
+# Power-Source-Finder
 a very simple way to know what power source is powering the house
 
 Using NodeMCU, 2 x 5v wall adapters (phone chargers) and a resistor voltage divider.  
